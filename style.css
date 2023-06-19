@@ -1,0 +1,22 @@
+body
+{
+    background-color: yellowgreen;
+}
+
+#Score
+{
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+#Time
+{
+    font-size: 25px;
+    float: right;
+    margin-right: 100px;
+}
+
+#Sketch
+{
+   color: yellow;
+}
